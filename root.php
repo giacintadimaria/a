@@ -8,7 +8,7 @@
 <center>
 <font color="white">
 <h1>Hacked by ./Outsiders</h1>
-<p>z3r0-team</p>
+<p>1337Syndicate</p>
 </center>
 </body>
 </html>
