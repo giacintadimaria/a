@@ -8,7 +8,7 @@ error_reporting(0);
 $list = explode("\n", file_get_contents($argv[1])); # change \n to \r\n if you're using windows
 # ------------------- #
 
-$hash = '$2y$12$15ya1EPl2ww1Mc3W2hNxZORkkzAK6eV35BaeyykJoh98CMMiDoDDK'; # hash here, NB: use single quote (') , don't use double quote (")
+$hash = '$2y$12$j788IBZNPoNsEGBbs0D1P.xZvUKWHPs2KF3SOLxFDD1u0rJoAZaFa'; # hash here, NB: use single quote (') , don't use double quote (")
 
 if(isset($argv[1])) {
 	foreach($list as $wordlist) {
